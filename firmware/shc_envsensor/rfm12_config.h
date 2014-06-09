@@ -50,7 +50,7 @@
 //Pin that the RFM12's slave select is connected to
 #define DDR_SS DDRB
 #define PORT_SS PORTB
-#define BIT_SS 0
+#define BIT_SS 2
 
 //SPI port
 #define DDR_SPI DDRB
